@@ -18,3 +18,7 @@ input{
 .submit{
   width: 50px;
 }
+
+.result h1{
+  color: red;
+}
